@@ -1,0 +1,33 @@
+{
+  "name": "front-end-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudtntdud/front-end-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudtntdud/front-end-final/issues"
+  },
+  "homepage": "https://github.com/dudtntdud/front-end-final#readme",
+  "devDependencies": {
+    "@types/file-saver": "^1.3.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.9",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.6"
+  },
+  "description": "",
+  "dependencies": {
+    "file-saver": "^1.3.3",
+    "screenfull": "^3.3.2"
+  }
+}
